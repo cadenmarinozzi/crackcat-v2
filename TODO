@@ -1,0 +1,16 @@
+- Multi threading
+- GPU/CPU kernels
+- Rules
+- Combination attack
+- More hash types
+- Automatic hash detection
+- Cracking directions
+- Realtime status
+- Salts
+
+* Data schemas, such as usernames emails header etc
+
+- Interactive terminal
+- Restore points
+- CLI argument loading
+- HTTP loading

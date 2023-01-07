@@ -1,0 +1,8 @@
+**/build/*
+**/log.txt
+**/potfile.txt
+**/output
+**/passlists
+**/compileAndRun.sh
+**/run.sh
+**/dictionaries

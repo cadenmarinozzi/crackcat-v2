@@ -1,0 +1,1 @@
+g++ ../src/crackcat.cpp -o ../build/crackcat.o -w -std=c++20
